@@ -1,0 +1,65 @@
+.btn-color {
+    background-color: #B68C5A;
+}
+
+.btn-color:hover{
+    background-color: #B68C5A;
+}
+.text-item{
+   
+}
+
+.card-img {
+
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%);
+    border-radius: 8px;
+
+}
+
+#background-image {
+    background-image: url('/images/banner.png');
+    background-repeat: no-repeat;
+}
+
+ .bg-img-1 {
+    background-image: url('/images/slider-1.jpg');
+}
+
+.bg-img-2 {
+    background-image: url('/images/slider-2.jpg');
+}
+
+.bg-img-3 {
+    background-image: url('/images/slider-3.jpg');
+} 
+
+.carousel-image {
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+
+
+
+}
+
+.carousel-caption {
+    bottom: 250px;
+    padding-left: 100px;
+}
+
+
+.padding {
+    padding-bottom: 40px;
+    padding: 100;
+}
+
+/* footer */
+.foot-direction{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    background-color: #B68C5A;
+}
