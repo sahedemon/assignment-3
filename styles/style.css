@@ -21,7 +21,7 @@
     background-repeat: no-repeat;
 }
 
- .bg-img-1 {
+ /* .bg-img-1 {
     background-image: url('/images/slider-1.jpg');
 }
 
@@ -31,7 +31,7 @@
 
 .bg-img-3 {
     background-image: url('/images/slider-3.jpg');
-} 
+}  */
 
 .carousel-image {
     height: 100vh;
@@ -45,7 +45,8 @@
 }
 
 .carousel-caption {
-    bottom: 250px;
+    position: absolute;
+    bottom: 140px;
     padding-left: 100px;
 }
 
